@@ -1,0 +1,8 @@
+# #  ignora todos os arquivos dentro do diretorio temp/
+# temp/
+# # ignora o arquivo especifico arquivo.txt
+# arquivo.txt
+# # ignora TODOS os arquivos com a extensao .css
+# *.css
+
+consulta/
